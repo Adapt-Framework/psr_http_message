@@ -8,6 +8,9 @@
         <namespace>\Psr\Http\Message</namespace>
         <version_status>release</version_status>
         <availability>public</availability>
+        <load_paths>
+            <path>src/</path>
+        </load_paths>
         <depends_on>
             <bundle>
                 <name>adapt</name>
